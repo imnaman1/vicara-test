@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40827797670",
+    "project_id": "vicara-test",
+    "storage_bucket": "vicara-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40827797670:android:a7b91f21e6ad64ddadf467",
+        "android_client_info": {
+          "package_name": "com.example.vicara_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40827797670-nt6fjebsmigrmppeng92qugftjjorre3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJsyi5N_JcMuP-Yf2GcQKLxNurFyRZ5Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40827797670-nt6fjebsmigrmppeng92qugftjjorre3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
